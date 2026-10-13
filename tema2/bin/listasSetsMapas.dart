@@ -1,5 +1,5 @@
 
-main() {
+void main() {
 // lisntas
 List<String> milista =["Hola","Buenas tardes","Adiós"]; 
 // print(milista);// imprime la lista de forma lineal y con los corchetes incluidos
